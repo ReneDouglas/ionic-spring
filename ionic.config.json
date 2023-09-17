@@ -1,0 +1,7 @@
+{
+  "name": "ionic-spring",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
